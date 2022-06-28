@@ -3,7 +3,6 @@
  */
 package concerttours.constants;
 
-
 /**
  * Global class for all Concerttours constants. You can add global constants for your extension into this class.
  */
